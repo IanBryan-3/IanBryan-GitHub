@@ -9,7 +9,7 @@
     <h2>Kentucky Counties with Selected Land Cover Types</h2>
     <a href="https://github.com/ionajo/geo409-field-trip/blob/main/maps/Ky-landcover.pdf">Download PDF</a>
     <br>
-    <img src="file:///C:/Users/ianar/OneDrive/AppData/Desktop/GEO409/Ky-landcover.pdf" alt="Kentucky Counties Map">
+    <img src="https://github.com/IanBryan-3/IanBryan-GitHub/blob/main/Ky-landcover.pdf" alt="Kentucky Counties Map">
 
     <h2>UKy Central Campus Canopy Model</h2>
     <a href="central-campus-map.pdf">Download PDF</a>
