@@ -12,8 +12,8 @@
     <img src="https://github.com/IanBryan-3/IanBryan-GitHub/blob/main/Ky-landcover.pdf" alt="Kentucky Counties Map">
 
     <h2>UKy Central Campus Canopy Model</h2>
-    <a href="central-campus-map.pdf">Download PDF</a>
+    <a href="https://ionajo.github.io/geo409-field-trip/maps/campus-canopy-model.pdf">Download PDF</a>
     <br>
-    <img src="central-campus-map.jpeg" alt="Central Campus Canopy Model">
+    <img src="" alt="Central Campus Canopy Model">
 </body>
 </html>
